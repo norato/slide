@@ -7,16 +7,18 @@ fnoratol@gmail.com
 
 .code HelloWorld.java
 
-*
-.code HelloWorld.java
+* Play Java
 
-*
+.play HelloWorld.java
+
+* Play Go
+
 .play hello.go
 
-*
+* Code Ruby
 
 .code hello.rb
 
-*
+* Play Ruby
 
 .play hello.rb
